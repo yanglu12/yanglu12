@@ -86,7 +86,7 @@ The computational backbone of my **PhD thesis**: a longitudinal analysis of with
 |------|--------------|-------|
 | **Director of Strategy & Mentorship Lead** | Nucleate NY | Biotech team coaching · competitive landscape · sponsor outreach |
 | **Vice President** | Science Career Club, Mount Sinai | Industry career programming (consulting · VC · biotech); 500+ network |
-| **Entrepreneur Lead** | Mount Sinai THRIVE Fellowship | *PrecisionFlow* surgical-device concept — surgeon interviews → prototype → pitch |
+| **Entrepreneur Lead** | Mount Sinai THRIVE Fellowship | *PrecisionFlow* surgical-device concept — surgeon interviews → presentation |
 
 ---
 
